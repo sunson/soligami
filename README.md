@@ -33,16 +33,16 @@ the first three are visible from the demo link above.
 
 wedges look like this:
 
-![Just Wedge](/sunson/soligami/master/images/Wedge-folded.png?raw=true "Just Wedge")
+![Just Wedge](/images/Wedge-folded.png?raw=true "Just Wedge")
 
 They have a small groove in the front which will allow the reflective
 material to be kept.
 
-![Holding a CD](/sunson/soligami/master/images/Wedge-holder.png?raw=true)
+![Holding a CD](/images/Wedge-holder.png?raw=true)
 
 These wedges are folded into their shape from a 2D paper cutting. The 2D shape looks something like this.
 
-![Plan of Wedge](/sunson/soligami/master/images/Wedge-plan.png?raw=true)
+![Plan of Wedge](/images/Wedge-plan.png?raw=true)
 
 
 
